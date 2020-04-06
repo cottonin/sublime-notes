@@ -481,9 +481,9 @@ patterns:
 #   name: support.function.notes
 #   match: (([a-zA-Z]{3,6}3?\:\/\/)?([-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)))
 
-- comment: Comments
-  name: comment.notes
-  match: (?<!\:)(\/\/.*)
+#- comment: Comments
+#  name: comment.notes
+#  match: (?<!\:)(\/\/.*)
 - comment: Line breaks
   name: support.function.notes
   match: ^(\-[\-\=]{2}.*)
