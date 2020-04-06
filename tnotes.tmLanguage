@@ -1960,14 +1960,6 @@
 		</dict>
 		<dict>
 			<key>comment</key>
-			<string>Warning/critical</string>
-			<key>match</key>
-			<string>(?![a-zA-Z])\!+[^\!\n\r]+\!*</string>
-			<key>name</key>
-			<string>invalid.deprecated.notes</string>
-		</dict>
-		<dict>
-			<key>comment</key>
 			<string>Emphasis on parentheses</string>
 			<key>match</key>
 			<string>([\(\)])</string>
