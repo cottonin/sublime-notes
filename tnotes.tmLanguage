@@ -1848,14 +1848,6 @@
 		</dict>
 		<dict>
 			<key>comment</key>
-			<string>Comments</string>
-			<key>match</key>
-			<string>(?&lt;!\:)(\/\/.*)</string>
-			<key>name</key>
-			<string>comment.notes</string>
-		</dict>
-		<dict>
-			<key>comment</key>
 			<string>Line breaks</string>
 			<key>match</key>
 			<string>^(\-[\-\=]{2}.*)</string>
